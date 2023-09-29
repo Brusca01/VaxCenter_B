@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a756c39-fa39-4a16-a2a1-e9b428ae5872" name="Changes" comment="sistemazione generale" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2EoKIuzglBobAuLR0ZtXSyR9VOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/damia/Desktop/Progetti/VaxCenter_B",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B" />
+      <recent name="C:\Users\brusc\Documents\GitHub\VaxCenter_B\clientCV\src\main\resources\images" />
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B\clientCV\src\main\resources\images" />
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B\clientCV\src\main\resources" />
+      <recent name="C:\Users\brusc\Documents\GitHub\VaxCenter_B\documentazione" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B\clientCV\src\main\resources\images" />
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B\clientCV\src\main\java\UI\graphics" />
+      <recent name="C:\Users\damia\Desktop\Progetti\VaxCenter_B\clientCV\src\main\java\UI" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CentriVaccinali">
+    <configuration name="CentriVaccinali" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="centrivaccinali.CentriVaccinali" />
+      <module name="clientCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="centrivaccinali.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerCentriVaccinali" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.ServerCentriVaccinali" />
+      <module name="serverCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.ServerPointer" />
+      <module name="clientCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UILoginToServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="database.UILoginToServer" />
+      <module name="serverCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WelcomeScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.WelcomeScreen" />
+      <module name="clientCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WelcomeScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.WelcomeScreen" />
+      <module name="clientCV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CentriVaccinali" />
+      <item itemvalue="Application.ServerCentriVaccinali" />
+      <item itemvalue="Application.ServerPointer" />
+      <item itemvalue="Application.UILoginToServer" />
+      <item itemvalue="Application.WelcomeScreen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CentriVaccinali" />
+        <item itemvalue="Application.ServerCentriVaccinali" />
+        <item itemvalue="Application.UILoginToServer" />
+        <item itemvalue="Application.ServerPointer" />
+        <item itemvalue="Application.WelcomeScreen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a756c39-fa39-4a16-a2a1-e9b428ae5872" name="Changes" comment="modifiche dimensioni UIChoosingRooles.java" />
+      <created>1663256423679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663256423679</updated>
+      <workItem from="1663269559793" duration="2778000" />
+      <workItem from="1663278816959" duration="88000" />
+      <workItem from="1663318491994" duration="1637000" />
+      <workItem from="1663441032207" duration="41000" />
+      <workItem from="1663533990594" duration="1579000" />
+      <workItem from="1663599967457" duration="1931000" />
+      <workItem from="1663602155260" duration="11809000" />
+      <workItem from="1663617746883" duration="77000" />
+      <workItem from="1664186008992" duration="9000" />
+      <workItem from="1664217501951" duration="7314000" />
+      <workItem from="1664225108625" duration="2682000" />
+      <workItem from="1664227817751" duration="135000" />
+      <workItem from="1664228121332" duration="844000" />
+      <workItem from="1664728818104" duration="12448000" />
+      <workItem from="1664787623128" duration="564000" />
+      <workItem from="1664792958839" duration="225000" />
+      <workItem from="1664795795812" duration="3244000" />
+      <workItem from="1664973493168" duration="4435000" />
+      <workItem from="1664978502065" duration="623000" />
+      <workItem from="1665131603427" duration="246000" />
+      <workItem from="1665131894596" duration="28000" />
+      <workItem from="1665173266339" duration="14000" />
+      <workItem from="1665243275604" duration="809000" />
+      <workItem from="1665566719701" duration="7463000" />
+      <workItem from="1665575874467" duration="5661000" />
+      <workItem from="1666967167499" duration="3812000" />
+      <workItem from="1667055181853" duration="2689000" />
+      <workItem from="1667064892904" duration="38000" />
+      <workItem from="1667384705392" duration="4736000" />
+      <workItem from="1667398032634" duration="1416000" />
+      <workItem from="1667406611031" duration="3631000" />
+      <workItem from="1667551117125" duration="4187000" />
+      <workItem from="1667642587415" duration="1294000" />
+      <workItem from="1667746716492" duration="8000" />
+      <workItem from="1668165608949" duration="39000" />
+      <workItem from="1668276926816" duration="2133000" />
+      <workItem from="1668279162469" duration="156000" />
+      <workItem from="1668348146710" duration="1291000" />
+      <workItem from="1668350334455" duration="405000" />
+      <workItem from="1668350986499" duration="1408000" />
+      <workItem from="1668367824483" duration="948000" />
+      <workItem from="1668627515993" duration="2563000" />
+      <workItem from="1668630119149" duration="3410000" />
+      <workItem from="1668695494019" duration="14000" />
+      <workItem from="1668773254912" duration="249000" />
+      <workItem from="1669040685653" duration="2970000" />
+      <workItem from="1669048539286" duration="1605000" />
+      <workItem from="1669050565927" duration="2547000" />
+      <workItem from="1670411599295" duration="3705000" />
+      <workItem from="1670416345448" duration="205000" />
+      <workItem from="1670427914137" duration="4091000" />
+      <workItem from="1695982368369" duration="50000" />
+    </task>
+    <task id="LOCAL-00064" summary="Sistemazione Bug UI">
+      <created>1664977434866</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977434866</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Sistemazione Bug UI">
+      <created>1664977455646</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977455646</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Sistemazione Bug UI">
+      <created>1664977549533</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977549533</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Sistemazione Bug UI">
+      <created>1664977719017</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977719017</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Sistemazione Bug UI">
+      <created>1664977948938</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1664977948938</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Sistemazione bottone Login">
+      <created>1664978801998</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1664978801998</updated>
+    </task>
+    <task id="LOCAL-00070" summary="risoluzione bug UIVaccineOperator">
+      <created>1665131720230</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1665131720230</updated>
+    </task>
+    <task id="LOCAL-00071" summary="checkData">
+      <created>1665579143449</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1665579143449</updated>
+    </task>
+    <task id="LOCAL-00072" summary="checkData doc">
+      <created>1665579392856</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1665579392856</updated>
+    </task>
+    <task id="LOCAL-00073" summary="modifica JComboBox">
+      <created>1665579947587</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1665579947587</updated>
+    </task>
+    <task id="LOCAL-00074" summary="checkPassword">
+      <created>1665580354012</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1665580354012</updated>
+    </task>
+    <task id="LOCAL-00075" summary="checkPassword">
+      <created>1665581258872</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1665581258872</updated>
+    </task>
+    <task id="LOCAL-00076" summary="creata la classe UISearchVaxCenterDialog">
+      <created>1666969550905</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1666969550905</updated>
+    </task>
+    <task id="LOCAL-00077" summary="implementata la classe UISearchVaxCenterDialog">
+      <created>1666969721870</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1666969721870</updated>
+    </task>
+    <task id="LOCAL-00078" summary="aggiunta immagine">
+      <created>1666969958616</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1666969958616</updated>
+    </task>
+    <task id="LOCAL-00079" summary="implementata con la parte di grafica la classe">
+      <created>1667384958512</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1667384958513</updated>
+    </task>
+    <task id="LOCAL-00080" summary="creato l'oggetto vcdialog">
+      <created>1667384984804</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1667384984804</updated>
+    </task>
+    <task id="LOCAL-00081" summary="creato il metodo jTable1MouseClicked">
+      <created>1667385055334</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1667385055334</updated>
+    </task>
+    <task id="LOCAL-00082" summary="implementato il metodo jTable1MouseClicked">
+      <created>1667385153282</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1667385153282</updated>
+    </task>
+    <task id="LOCAL-00083" summary="eliminato il metodo main">
+      <created>1667385659696</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1667385659696</updated>
+    </task>
+    <task id="LOCAL-00084" summary="aggiunto e implementato il metodo addMouseListener">
+      <created>1667386324642</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1667386324643</updated>
+    </task>
+    <task id="LOCAL-00085" summary="eliminato il precedente dalla classe">
+      <created>1667389141841</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1667389141842</updated>
+    </task>
+    <task id="LOCAL-00086" summary="eliminato il corpo della classe">
+      <created>1667389183285</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1667389183285</updated>
+    </task>
+    <task id="LOCAL-00087" summary="nuova implementazione della classe UISearchVaxCenterDialog">
+      <created>1667389314915</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1667389314915</updated>
+    </task>
+    <task id="LOCAL-00088" summary="eliminata l'icon">
+      <created>1667389372201</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1667389372201</updated>
+    </task>
+    <task id="LOCAL-00089" summary="implementato la classe UISearchVaxCenterDialog">
+      <created>1667410390289</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1667410390289</updated>
+    </task>
+    <task id="LOCAL-00090" summary="aggiunta tachicardia al metodo getProspettoRiassuntivo">
+      <created>1667552484234</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1667552484234</updated>
+    </task>
+    <task id="LOCAL-00091" summary="preso il nome del centro vaccinale e stampato nella dialog">
+      <created>1667552889608</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1667552889608</updated>
+    </task>
+    <task id="LOCAL-00092" summary="sistemato il metodo getProspettoRiassuntivo">
+      <created>1667553573692</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1667553573692</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Modifica costruttore e impostazione format data">
+      <created>1668010317634</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1668010317634</updated>
+    </task>
+    <task id="LOCAL-00094" summary="javadoc">
+      <created>1668277154940</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277154941</updated>
+    </task>
+    <task id="LOCAL-00095" summary="javadoc">
+      <created>1668277198028</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277198028</updated>
+    </task>
+    <task id="LOCAL-00096" summary="javadoc">
+      <created>1668277221729</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277221729</updated>
+    </task>
+    <task id="LOCAL-00097" summary="javadoc">
+      <created>1668277241793</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277241793</updated>
+    </task>
+    <task id="LOCAL-00098" summary="javadoc">
+      <created>1668277286684</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277286684</updated>
+    </task>
+    <task id="LOCAL-00099" summary="javadoc">
+      <created>1668277372963</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277372963</updated>
+    </task>
+    <task id="LOCAL-00100" summary="javadoc">
+      <created>1668277475017</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1668277475017</updated>
+    </task>
+    <task id="LOCAL-00101" summary="javadoc SearchField">
+      <created>1668278789960</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1668278789960</updated>
+    </task>
+    <task id="LOCAL-00102" summary="modifiche pom">
+      <created>1668279054661</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1668279054662</updated>
+    </task>
+    <task id="LOCAL-00103" summary="maven check">
+      <created>1668631433842</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1668631433843</updated>
+    </task>
+    <task id="LOCAL-00104" summary="maven check">
+      <created>1668632536553</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1668632536553</updated>
+    </task>
+    <task id="LOCAL-00105" summary="maven complete">
+      <created>1669043263201</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1669043263204</updated>
+    </task>
+    <task id="LOCAL-00106" summary="pom principale">
+      <created>1669043333084</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1669043333084</updated>
+    </task>
+    <task id="LOCAL-00107" summary="correzione bug">
+      <created>1669051810066</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1669051810067</updated>
+    </task>
+    <task id="LOCAL-00108" summary="correzione bug">
+      <created>1669053160231</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1669053160232</updated>
+    </task>
+    <task id="LOCAL-00109" summary="commit messaggio">
+      <created>1670341434448</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1670341434449</updated>
+    </task>
+    <task id="LOCAL-00110" summary="creazione tabelle completata">
+      <created>1670413565343</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1670413565344</updated>
+    </task>
+    <task id="LOCAL-00111" summary="creazione tabelle completata">
+      <created>1670413593617</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1670413593618</updated>
+    </task>
+    <task id="LOCAL-00112" summary="sistemazione generale">
+      <created>1670415095219</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1670415095219</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="RicercaCentroVaccinaleDialogLuca" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implementata con la parte di grafica la classe" />
+    <MESSAGE value="creato l'oggetto vcdialog" />
+    <MESSAGE value="creato il metodo jTable1MouseClicked" />
+    <MESSAGE value="implementato il metodo jTable1MouseClicked" />
+    <MESSAGE value="eliminato il metodo main" />
+    <MESSAGE value="aggiunto e implementato il metodo addMouseListener" />
+    <MESSAGE value="eliminato il precedente dalla classe" />
+    <MESSAGE value="eliminato il corpo della classe" />
+    <MESSAGE value="nuova implementazione della classe UISearchVaxCenterDialog" />
+    <MESSAGE value="eliminata l'icon" />
+    <MESSAGE value="implementato la classe UISearchVaxCenterDialog" />
+    <MESSAGE value="aggiunta tachicardia al metodo getProspettoRiassuntivo" />
+    <MESSAGE value="preso il nome del centro vaccinale e stampato nella dialog" />
+    <MESSAGE value="sistemato il metodo getProspettoRiassuntivo" />
+    <MESSAGE value="Modifica costruttore e impostazione format data" />
+    <MESSAGE value="javadoc" />
+    <MESSAGE value="javadoc SearchField" />
+    <MESSAGE value="modifiche pom" />
+    <MESSAGE value="maven check" />
+    <MESSAGE value="maven complete" />
+    <MESSAGE value="pom principale" />
+    <MESSAGE value="correzione bug" />
+    <MESSAGE value="commit messaggio" />
+    <MESSAGE value="creazione tabelle completata" />
+    <MESSAGE value="sistemazione generale" />
+    <option name="LAST_COMMIT_MESSAGE" value="sistemazione generale" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="UI.UISearchVaxCenter" memberName="rootPane" />
+        <PinnedItemInfo parentTag="UI.UISearchVaxCenter" memberName="jTable1" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
